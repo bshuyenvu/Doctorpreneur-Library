@@ -14,9 +14,9 @@
 
 > **PHÁT TRIỂN NỘI DUNG BỞI:**
 
-**BS.CKI Trần Huyền Vũ** 
+> **BS.CKI Trần Huyền Vũ** 
 
-**Bệnh viện Đa khoa khu vực Trà Ôn**
+> **Bệnh viện Đa khoa khu vực Trà Ôn**
 
 ## Sứ mệnh
 
