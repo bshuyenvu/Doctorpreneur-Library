@@ -1,5 +1,10 @@
 # Hướng dẫn đóng góp
 
+- **Repository chính thức:** https://github.com/bshuyenvu/Doctorpreneur-Library
+- **Website:** https://bshuyenvu.github.io/Doctorpreneur-Library
+- **Tạo issue:** https://github.com/bshuyenvu/Doctorpreneur-Library/issues/new/choose
+
+
 ## Nguyên tắc
 
 1. Mỗi pull request giải quyết một mục tiêu rõ ràng.
@@ -19,4 +24,4 @@ git commit -m "docs: mô tả thay đổi"
 git push origin docs/ten-thay-doi
 ```
 
-Tạo pull request, mô tả lý do, nguồn và ảnh hưởng đến các chương liên quan.
+Tạo pull request tại `https://github.com/bshuyenvu/Doctorpreneur-Library/pulls`, mô tả lý do, nguồn và ảnh hưởng đến các chương liên quan.

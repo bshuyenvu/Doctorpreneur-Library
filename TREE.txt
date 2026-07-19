@@ -173,4 +173,6 @@ Doctorpreneur-Library/
 ├── MINDMAP.md
 ├── README.md
 ├── ROADMAP.md
-└── SUMMARY.md
+├── SUMMARY.md
+├── TREE.txt
+└── VALIDATION_REPORT.md

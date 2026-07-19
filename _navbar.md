@@ -1,4 +1,4 @@
 - [Trang chủ](/)
 - [Roadmap](/ROADMAP.md)
 - [Checklist](/CHECKLIST.md)
-- [GitHub](https://github.com/your-username/Doctorpreneur-Library)
+- [GitHub](https://github.com/bshuyenvu/Doctorpreneur-Library)

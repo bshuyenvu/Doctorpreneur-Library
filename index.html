@@ -6,6 +6,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <meta name="description" content="Doctorpreneur Library — thư viện tri thức mở dành cho bác sĩ khởi nghiệp HealthTech, AI Healthcare và Medical Education.">
   <meta name="theme-color" content="#0b1f3a">
+  <link rel="canonical" href="https://bshuyenvu.github.io/Doctorpreneur-Library/">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="vi_VN">
+  <meta property="og:title" content="Doctorpreneur Library">
+  <meta property="og:description" content="Thư viện tri thức mở dành cho bác sĩ khởi nghiệp HealthTech, AI Healthcare và Medical Education.">
+  <meta property="og:url" content="https://bshuyenvu.github.io/Doctorpreneur-Library/">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Doctorpreneur Library">
+  <meta name="twitter:description" content="Từ vấn đề bên giường bệnh đến sản phẩm HealthTech có bằng chứng, an toàn và có thể mở rộng.">
   <title>Doctorpreneur Library</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🩺</text></svg>">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
@@ -36,7 +45,7 @@
   <script>
     window.$docsify = {
       name: '📚 Doctorpreneur Library',
-      repo: 'your-username/Doctorpreneur-Library',
+      repo: 'bshuyenvu/Doctorpreneur-Library',
       homepage: 'README.md',
       loadSidebar: true,
       loadNavbar: true,
@@ -47,6 +56,8 @@
       relativePath: false,
       mergeNavbar: true,
       executeScript: true,
+      externalLinkTarget: '_blank',
+      externalLinkRel: 'noopener noreferrer',
       search: {
         maxAge: 86400000,
         paths: 'auto',
@@ -68,10 +79,10 @@
       },
       editLink: {
         text: '✏️ Chỉnh sửa trang này',
-        repo: 'https://github.com/your-username/Doctorpreneur-Library/blob/main/',
+        repo: 'https://github.com/bshuyenvu/Doctorpreneur-Library/blob/main/',
         cssClass: 'edit-link'
       },
-      ga: 'G-XXXXXXXXXX',
+      ga: '', // Điền Measurement ID dạng G-XXXXXXXXXX khi đã cấu hình Google Analytics.
       plugins: [
         function doctorpreneurComments(hook, vm) {
           hook.afterEach(function(html) {
@@ -82,12 +93,12 @@
              * KÍCH HOẠT GISCUS:
              * 1) Repository phải public và đã bật Discussions.
              * 2) Cài ứng dụng Giscus cho repository.
-             * 3) Mở https://giscus.app, nhập "your-username/Doctorpreneur-Library".
+             * 3) Mở https://giscus.app và nhập repository "bshuyenvu/Doctorpreneur-Library".
              * 4) Chọn category, sau đó sao chép data-repo-id và data-category-id.
-             * 5) Thay các placeholder bên dưới; đồng thời thay data-repo.
+             * 5) Chỉ cần thay repoId và categoryId bên dưới; data-repo đã được cấu hình sẵn.
              * 6) Nếu chưa cấu hình, script sẽ không chạy để tránh lỗi giao diện.
              */
-            const repo = 'your-username/Doctorpreneur-Library';
+            const repo = 'bshuyenvu/Doctorpreneur-Library';
             const repoId = 'YOUR_REPO_ID';
             const categoryId = 'YOUR_CATEGORY_ID';
             const host = document.querySelector('.giscus');

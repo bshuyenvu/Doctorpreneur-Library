@@ -1,11 +1,16 @@
 # 📚 Doctorpreneur Library
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/Doctorpreneur-Library?style=social)](https://github.com/your-username/Doctorpreneur-Library)
-[![Contributors](https://img.shields.io/github/contributors/your-username/Doctorpreneur-Library)](https://github.com/your-username/Doctorpreneur-Library/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/bshuyenvu/Doctorpreneur-Library?style=social)](https://github.com/bshuyenvu/Doctorpreneur-Library)
+[![Contributors](https://img.shields.io/github/contributors/bshuyenvu/Doctorpreneur-Library)](https://github.com/bshuyenvu/Doctorpreneur-Library/graphs/contributors)
 [![Docsify](https://img.shields.io/badge/Docsify-static%20docs-2ea44f)](https://docsify.js.org/)
+[![Website](https://img.shields.io/badge/Website-Doctorpreneur%20Library-0b6e99)](https://bshuyenvu.github.io/Doctorpreneur-Library/)
 
 > **Từ vấn đề bên giường bệnh đến sản phẩm HealthTech có bằng chứng, an toàn và có thể mở rộng.**
+
+🌐 **Website chính thức:** [https://bshuyenvu.github.io/Doctorpreneur-Library](https://bshuyenvu.github.io/Doctorpreneur-Library/)
+
+💻 **GitHub repository:** [https://github.com/bshuyenvu/Doctorpreneur-Library](https://github.com/bshuyenvu/Doctorpreneur-Library)
 
 ## Sứ mệnh
 
@@ -128,19 +133,26 @@ Mở `http://127.0.0.1:3000`.
 
 ### Cách 1 — GitHub Pages
 
-1. Tạo repository `Doctorpreneur-Library`.
-2. Thay mọi chỗ `your-username` trong `index.html`, `_navbar.md` và badge.
-3. Push toàn bộ nội dung lên nhánh `main`.
-4. Vào **Settings → Pages → Deploy from a branch**.
-5. Chọn branch `main`, thư mục `/ (root)`, rồi lưu.
-6. Website dự kiến: `https://<username>.github.io/Doctorpreneur-Library/`.
+Repository đã được cấu hình sẵn cho tài khoản **bshuyenvu** và địa chỉ xuất bản chính thức:
+
+- Repository: `https://github.com/bshuyenvu/Doctorpreneur-Library`
+- Website: `https://bshuyenvu.github.io/Doctorpreneur-Library`
+
+Thực hiện theo thứ tự:
+
+1. Tạo repository public tên `Doctorpreneur-Library` tại tài khoản `bshuyenvu`.
+2. Push toàn bộ nội dung lên nhánh `main` bằng các lệnh bên dưới.
+3. Mở **Settings → Pages** trong repository.
+4. Ở **Build and deployment**, chọn **Deploy from a branch**.
+5. Chọn branch `main`, thư mục `/ (root)`, sau đó nhấn **Save**.
+6. Sau khi GitHub Pages hoàn tất triển khai, truy cập [https://bshuyenvu.github.io/Doctorpreneur-Library](https://bshuyenvu.github.io/Doctorpreneur-Library/).
 
 ```bash
 git init
 git add .
 git commit -m "feat: initialize Doctorpreneur Library"
 git branch -M main
-git remote add origin https://github.com/<username>/Doctorpreneur-Library.git
+git remote add origin https://github.com/bshuyenvu/Doctorpreneur-Library.git
 git push -u origin main
 ```
 
@@ -156,7 +168,7 @@ git push -u origin main
 ## Bình luận và nút chỉnh sửa
 
 - Giscus đã có hook trong `index.html` nhưng chỉ kích hoạt sau khi điền `data-repo-id` và `data-category-id`.
-- Nút **✏️ Chỉnh sửa trang này** dùng đường dẫn GitHub; thay `your-username`.
+- Nút **✏️ Chỉnh sửa trang này** đã trỏ đến `https://github.com/bshuyenvu/Doctorpreneur-Library/blob/main/`.
 - Mẫu Disqus được để sẵn dưới dạng comment.
 
 ## Đóng góp
