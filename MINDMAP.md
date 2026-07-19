@@ -1,0 +1,25 @@
+# 🧠 Sơ đồ tư duy (MINDMAP)
+
+- **Doctorpreneur Library**
+  - **1. Tư duy (Mindset)**
+    - Khác biệt Lâm sàng vs Kinh doanh
+    - Quản lý rủi ro
+  - **2. Khám phá (Discovery)**
+    - Stanford Biodesign
+    - Customer Interview
+  - **3. Sản phẩm (Product)**
+    - UX/UI cho Bác sĩ/Bệnh nhân
+    - AI, IoT, SaMD (Software as a Medical Device)
+  - **4. Pháp lý & Tiêu chuẩn (Regulations)**
+    - FDA (510k, De Novo, PMA)
+    - HIPAA, GDPR
+    - HL7 FHIR, DICOM
+  - **5. Kinh doanh (Business)**
+    - B2B, B2C, Value-based care
+    - Reimbursement (CPT Codes)
+  - **6. Gọi vốn (Fundraising)**
+    - Pitch Deck
+    - VCs Y tế, Grants
+  - **7. Mở rộng (Scaling)**
+    - Bán hàng cho Bệnh viện
+    - Go Global
