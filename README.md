@@ -12,6 +12,12 @@
 
 💻 **GitHub repository:** [https://github.com/bshuyenvu/Doctorpreneur-Library](https://github.com/bshuyenvu/Doctorpreneur-Library)
 
+> **PHÁT TRIỂN NỘI DUNG BỞI:**
+
+**BS.CKI Trần Huyền Vũ** 
+
+**Bệnh viện Đa khoa khu vực Trà Ôn**
+
 ## Sứ mệnh
 
 Doctorpreneur Library là một knowledge base mã nguồn mở dành cho bác sĩ, sinh viên y, nhà nghiên cứu, CMIO, chuyên gia sản phẩm và founder muốn xây dựng giải pháp HealthTech, AI Healthcare hoặc Medical Education. Thư viện kết nối tư duy lâm sàng với khám phá khách hàng, thiết kế sản phẩm, pháp lý, bằng chứng, AI, vận hành và gọi vốn.
