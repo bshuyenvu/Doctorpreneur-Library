@@ -1,0 +1,176 @@
+Doctorpreneur-Library/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   └── content-update.md
+│   └── pull_request_template.md
+├── case-studies/
+│   ├── babylon-health.md
+│   ├── doximity.md
+│   ├── idoven.md
+│   ├── osler.md
+│   ├── viz-ai.md
+│   └── zocdoc.md
+├── chapters/
+│   ├── 01-doctorpreneur-mindset/
+│   │   └── README.md
+│   ├── 02-entrepreneurship/
+│   │   └── README.md
+│   ├── 03-lean-startup/
+│   │   └── README.md
+│   ├── 04-problem-discovery/
+│   │   └── README.md
+│   ├── 05-customer-discovery/
+│   │   └── README.md
+│   ├── 06-design-thinking/
+│   │   └── README.md
+│   ├── 07-clinical-workflow/
+│   │   └── README.md
+│   ├── 08-value-proposition/
+│   │   └── README.md
+│   ├── 09-business-model/
+│   │   └── README.md
+│   ├── 10-market-analysis/
+│   │   └── README.md
+│   ├── 11-competitive-intelligence/
+│   │   └── README.md
+│   ├── 12-health-economics/
+│   │   └── README.md
+│   ├── 13-reimbursement/
+│   │   └── README.md
+│   ├── 14-pricing-strategy/
+│   │   └── README.md
+│   ├── 15-go-to-market/
+│   │   └── README.md
+│   ├── 16-b2b-sales/
+│   │   └── README.md
+│   ├── 17-partnerships/
+│   │   └── README.md
+│   ├── 18-procurement/
+│   │   └── README.md
+│   ├── 19-healthcare-regulation/
+│   │   └── README.md
+│   ├── 20-medical-device-regulation/
+│   │   └── README.md
+│   ├── 21-fda-pathways/
+│   │   └── README.md
+│   ├── 22-eu-mdr/
+│   │   └── README.md
+│   ├── 23-quality-management/
+│   │   └── README.md
+│   ├── 24-risk-management/
+│   │   └── README.md
+│   ├── 25-clinical-evaluation/
+│   │   └── README.md
+│   ├── 26-clinical-trials/
+│   │   └── README.md
+│   ├── 27-evidence-generation/
+│   │   └── README.md
+│   ├── 28-research-methodology/
+│   │   └── README.md
+│   ├── 29-biostatistics/
+│   │   └── README.md
+│   ├── 30-real-world-evidence/
+│   │   └── README.md
+│   ├── 31-digital-health/
+│   │   └── README.md
+│   ├── 32-telemedicine/
+│   │   └── README.md
+│   ├── 33-mobile-health/
+│   │   └── README.md
+│   ├── 34-wearables-iot/
+│   │   └── README.md
+│   ├── 35-ehr-interoperability/
+│   │   └── README.md
+│   ├── 36-fhir-hl7/
+│   │   └── README.md
+│   ├── 37-medical-imaging/
+│   │   └── README.md
+│   ├── 38-clinical-decision-support/
+│   │   └── README.md
+│   ├── 39-cybersecurity/
+│   │   └── README.md
+│   ├── 40-privacy-governance/
+│   │   └── README.md
+│   ├── 41-ai-healthcare/
+│   │   └── README.md
+│   ├── 42-machine-learning/
+│   │   └── README.md
+│   ├── 43-deep-learning/
+│   │   └── README.md
+│   ├── 44-generative-ai/
+│   │   └── README.md
+│   ├── 45-nlp-clinical/
+│   │   └── README.md
+│   ├── 46-computer-vision/
+│   │   └── README.md
+│   ├── 47-ai-validation/
+│   │   └── README.md
+│   ├── 48-responsible-ai/
+│   │   └── README.md
+│   ├── 49-human-ai-interaction/
+│   │   └── README.md
+│   ├── 50-mlops-healthcare/
+│   │   └── README.md
+│   ├── 51-product-management/
+│   │   └── README.md
+│   ├── 52-user-experience/
+│   │   └── README.md
+│   ├── 53-software-architecture/
+│   │   └── README.md
+│   ├── 54-data-engineering/
+│   │   └── README.md
+│   ├── 55-devops-cloud/
+│   │   └── README.md
+│   ├── 56-product-analytics/
+│   │   └── README.md
+│   ├── 57-project-management/
+│   │   └── README.md
+│   ├── 58-team-building/
+│   │   └── README.md
+│   ├── 59-leadership/
+│   │   └── README.md
+│   ├── 60-fundraising/
+│   │   └── README.md
+│   ├── 61-financial-modeling/
+│   │   └── README.md
+│   ├── 62-legal-ip/
+│   │   └── README.md
+│   ├── 63-medical-education/
+│   │   └── README.md
+│   ├── 64-scaling-operations/
+│   │   └── README.md
+│   ├── 65-impact-ethics/
+│   │   └── README.md
+│   └── 66-international-expansion/
+│       └── README.md
+├── community/
+│   ├── conferences.md
+│   └── international-communities.md
+├── resources/
+│   ├── ai-tool-library.md
+│   ├── book-library.md
+│   ├── course-library.md
+│   ├── open-source-library.md
+│   ├── paper-library.md
+│   ├── prompt-library.md
+│   ├── sop-library.md
+│   ├── template-library.md
+│   └── video-library.md
+├── scripts/
+│   └── validate_repo.py
+├── .nojekyll
+├── _404.md
+├── _coverpage.md
+├── _navbar.md
+├── _sidebar.md
+├── CHECKLIST.md
+├── CONTRIBUTING.md
+├── EDITORIAL_POLICY.md
+├── index.html
+├── LEARNING_PATH.md
+├── LICENSE
+├── MANIFEST.txt
+├── MINDMAP.md
+├── README.md
+├── ROADMAP.md
+└── SUMMARY.md

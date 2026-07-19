@@ -1,10 +1,10 @@
 # 📚 Doctorpreneur Library
 
-> Hành trang số 1 cho Bác sĩ Khởi nghiệp & AI Healthcare.
+> Từ áo blouse đến founder HealthTech — học có hệ thống, làm dựa trên bằng chứng.
 
-- 66 Chủ đề chuyên sâu
-- 100+ Case Studies & Templates
-- 100% Mã nguồn mở
+- 66 năng lực cốt lõi
+- Lộ trình 12 tháng
+- Checklist, SOP, prompt, template và case study
 
-[Bắt đầu hành trình](#doctorpreneur-library)
-[Xem trên GitHub](https://github.com/)
+[🚀 Bắt đầu học](/README.md)
+[🗺️ Xem Roadmap](/ROADMAP.md)

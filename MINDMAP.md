@@ -1,25 +1,40 @@
-# 🧠 Sơ đồ tư duy (MINDMAP)
+# Mindmap kiến thức Doctorpreneur
 
-- **Doctorpreneur Library**
-  - **1. Tư duy (Mindset)**
-    - Khác biệt Lâm sàng vs Kinh doanh
-    - Quản lý rủi ro
-  - **2. Khám phá (Discovery)**
-    - Stanford Biodesign
-    - Customer Interview
-  - **3. Sản phẩm (Product)**
-    - UX/UI cho Bác sĩ/Bệnh nhân
-    - AI, IoT, SaMD (Software as a Medical Device)
-  - **4. Pháp lý & Tiêu chuẩn (Regulations)**
-    - FDA (510k, De Novo, PMA)
-    - HIPAA, GDPR
-    - HL7 FHIR, DICOM
-  - **5. Kinh doanh (Business)**
-    - B2B, B2C, Value-based care
-    - Reimbursement (CPT Codes)
-  - **6. Gọi vốn (Fundraising)**
-    - Pitch Deck
-    - VCs Y tế, Grants
-  - **7. Mở rộng (Scaling)**
-    - Bán hàng cho Bệnh viện
-    - Go Global
+- **1. Nền tảng Doctorpreneur**
+  - Tư duy founder và đạo đức nghề nghiệp
+  - Entrepreneurship và Lean Startup
+  - Problem discovery, customer discovery
+  - Design thinking và clinical workflow
+  - Value proposition, business model, market analysis
+- **2. Thị trường, kinh doanh và pháp lý**
+  - Competitive intelligence, health economics
+  - Reimbursement, pricing, go-to-market
+  - B2B hospital sales, partnership, procurement
+  - Regulatory strategy và medical device regulation
+- **3. Bằng chứng, chất lượng và nghiên cứu**
+  - FDA, EU MDR, ISO 13485, ISO 14971
+  - Clinical evaluation, clinical trial
+  - Evidence generation, methodology, biostatistics
+  - Real-world data và real-world evidence
+- **4. Y tế số và dữ liệu**
+  - Digital health, telemedicine, mHealth, wearables
+  - EHR, interoperability, FHIR/HL7
+  - DICOM/PACS, clinical decision support
+  - Cybersecurity, privacy và data governance
+- **5. AI trong y tế**
+  - Machine learning, deep learning
+  - Generative AI, clinical NLP, computer vision
+  - AI validation, responsible AI
+  - Human–AI interaction và MLOps
+- **6. Sản phẩm, công nghệ và tổ chức**
+  - Product management và UX/UI
+  - Software architecture, data engineering, DevOps
+  - Product analytics, project management
+  - Team building, leadership, fundraising
+- **7. Tăng trưởng và quốc tế hóa**
+  - Financial modeling
+  - Legal, contracting và intellectual property
+  - Medical Education/EdTech
+  - Scaling operations
+  - Impact, ethics, sustainability
+  - International expansion
