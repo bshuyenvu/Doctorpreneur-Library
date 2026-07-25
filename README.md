@@ -14,7 +14,7 @@
 
 > **PHÁT TRIỂN NỘI DUNG BỞI:**
 
-> **BS.CKI Trần Huyền Vũ** 
+> **BS.CKII Trần Huyền Vũ** 
 
 > **Bệnh viện Đa khoa khu vực Trà Ôn**
 
