@@ -28,7 +28,7 @@ Phân biệt hai câu hỏi: "có đáng tiền không?" (cost-effectiveness, g�
 
 ## 6. Bối cảnh y tế Việt Nam và tuyến cơ sở
 
-Ngưỡng chi trả và phương pháp đánh giá công nghệ y tế (HTA) ở Việt Nam đang phát triển và là dữ liệu động — không giả định ngưỡng ICER của nước khác. Ở tuyến cơ sở, lập luận kinh tế thực dụng nhất là tiết kiệm thời gian nhân lực, giảm chuyển tuyến không cần thiết, giảm rủi ро xuất toán BHYT — những khoản gắn trực tiếp ngân sách đơn vị.
+Ngưỡng chi trả và phương pháp đánh giá công nghệ y tế (HTA) ở Việt Nam đang phát triển và là dữ liệu động — không giả định ngưỡng ICER của nước khác. Ở tuyến cơ sở, lập luận kinh tế thực dụng nhất là tiết kiệm thời gian nhân lực, giảm chuyển tuyến không cần thiết, giảm rủi ro xuất toán BHYT — những khoản gắn trực tiếp ngân sách đơn vị.
 
 ## 7. Các bên liên quan
 
@@ -61,9 +61,9 @@ Giải pháp giảm chuyển tuyến không cần thiết. BIA cho bệnh viện
 - **Bỏ phân tích độ nhạy.**
 - **Con số tiết kiệm bịa.**
 
-## 12. Rủi ро an toàn, pháp lý và đạo đức
+## 12. Rủi ro an toàn, pháp lý và đạo đức
 
-Lập luận kinh tế không được khuyến khích cắt giảm chăm sóc cần thiết hay lựa chọn bệnh nhân sinh lời. Không tuyên bố tiết kiệm dựa trên hiệu quả lâm sàng chưa chứng minh — vừa sai đạo đức vừa rủi ро pháp lý. Phân biệt giá trị kinh tế *giả định* với *đã chứng minh*.
+Lập luận kinh tế không được khuyến khích cắt giảm chăm sóc cần thiết hay lựa chọn bệnh nhân sinh lời. Không tuyên bố tiết kiệm dựa trên hiệu quả lâm sàng chưa chứng minh — vừa sai đạo đức vừa rủi ro pháp lý. Phân biệt giá trị kinh tế *giả định* với *đã chứng minh*.
 
 ## 13. Chỉ số đo lường
 

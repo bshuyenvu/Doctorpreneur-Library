@@ -67,7 +67,7 @@ Khi thu thập quan sát chạm dữ liệu bệnh nhân, tuân thủ bảo mậ
 
 ## 13. Chỉ số đo lường
 
-Chất lượng khám phá đo bằng: mức độ định lượng của vấn đề (có số thật không?), số vấn đề được so sánh trước khi chọn, tỉ lệ phát biểu tách khỏi giải pháp, và độ rõ của giả định rủi ро nhất.
+Chất lượng khám phá đo bằng: mức độ định lượng của vấn đề (có số thật không?), số vấn đề được so sánh trước khi chọn, tỉ lệ phát biểu tách khỏi giải pháp, và độ rõ của giả định rủi ro nhất.
 
 ## 14. Bằng chứng và mức độ tin cậy
 

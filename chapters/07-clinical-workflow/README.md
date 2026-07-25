@@ -47,7 +47,7 @@ Mỗi tác nhân trong luồng — bác sĩ, điều dưỡng, dược, xét ngh
 
 - **Swimlane workflow map** (vẽ tay hoặc công cụ sơ đồ).
 - **Bảng điểm nghẽn:** bước · loại lãng phí · tác động · ý tưởng cải thiện.
-- **Handoff register** liệt kê chuyển giao và rủi ро.
+- **Handoff register** liệt kê chuyển giao và rủi ro.
 
 ## 10. Ví dụ minh họa
 

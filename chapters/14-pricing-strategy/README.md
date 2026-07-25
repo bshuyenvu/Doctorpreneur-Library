@@ -61,7 +61,7 @@ Giải pháp giảm chuyển tuyến: giá trị kinh tế/bệnh viện đặt 
 - **Hỏi WTP trực tiếp** rồi tin câu trả lời.
 - **Bỏ qua ràng buộc đấu thầu/chi trả.**
 
-## 12. Rủi ро an toàn, pháp lý và đạo đức
+## 12. Rủi ro an toàn, pháp lý và đạo đức
 
 Giá không được tạo động lực chỉ định thừa hay chặn tiếp cận nhóm yếu thế một cách bất công. Trong đấu thầu và chi trả công, tuân thủ quy định giá và minh bạch. Không phân biệt giá theo cách vi phạm pháp luật hoặc y đức.
 

@@ -32,7 +32,7 @@ Cạnh tranh tuyến cơ sở thường là giải pháp nội bộ tự làm, p
 
 ## 7. Các bên liên quan
 
-Người mua đánh giá cạnh tranh khác người dùng: lãnh đạo nhìn chi phí, rủi ро, tích hợp; bác sĩ nhìn tính năng, dễ dùng. Bản đồ cạnh tranh nên phản ánh tiêu chí của người mua, vì họ quyết định ngân sách.
+Người mua đánh giá cạnh tranh khác người dùng: lãnh đạo nhìn chi phí, rủi ro, tích hợp; bác sĩ nhìn tính năng, dễ dùng. Bản đồ cạnh tranh nên phản ánh tiêu chí của người mua, vì họ quyết định ngân sách.
 
 ## 8. Quy trình từng bước
 
@@ -61,9 +61,9 @@ Công cụ nhắc tái khám: đối thủ trực tiếp là app tương tự; g
 - **Đánh giá thấp nhà cung HIS tại chỗ.**
 - **Sao chép định vị đối thủ** thay vì khác biệt.
 
-## 12. Rủi ро an toàn, pháp lý và đạo đức
+## 12. Rủi ro an toàn, pháp lý và đạo đức
 
-Thu thập thông tin cạnh tranh phải hợp pháp và đạo đức — không lấy thông tin mật, không mạo danh. So sánh với đối thủ trong tài liệu bán hàng phải trung thực, không hạ thấp sai lệch (rủi ро pháp lý). Tuyên bố "tốt hơn" cần bằng chứng.
+Thu thập thông tin cạnh tranh phải hợp pháp và đạo đức — không lấy thông tin mật, không mạo danh. So sánh với đối thủ trong tài liệu bán hàng phải trung thực, không hạ thấp sai lệch (rủi ro pháp lý). Tuyên bố "tốt hơn" cần bằng chứng.
 
 ## 13. Chỉ số đo lường
 

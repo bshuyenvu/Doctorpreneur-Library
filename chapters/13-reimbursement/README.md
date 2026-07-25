@@ -12,7 +12,7 @@ Reimbursement là câu hỏi "ai trả và qua cơ chế nào" — thường là
 
 ## 2. Mục tiêu học tập
 
-Bạn sẽ: (a) phân loại các nguồn chi trả trong hệ thống y tế Việt Nam; (b) đánh giá điều kiện và rào cản mỗi đường chi trả; (c) chọn chiến lược chi trả theo giai đoạn sản phẩm; (d) nhận diện rủi ро pháp lý/BHYT trong mô hình chi trả.
+Bạn sẽ: (a) phân loại các nguồn chi trả trong hệ thống y tế Việt Nam; (b) đánh giá điều kiện và rào cản mỗi đường chi trả; (c) chọn chiến lược chi trả theo giai đoạn sản phẩm; (d) nhận diện rủi ro pháp lý/BHYT trong mô hình chi trả.
 
 ## 3. Vì sao chương này sống còn với Doctorpreneur
 
@@ -32,7 +32,7 @@ Chi trả BHYT bám sát Luật BHYT, các Nghị định và Thông tư hướn
 
 ## 7. Các bên liên quan
 
-Reimbursement map phải phối hợp: phòng tài chính/kế toán bệnh viện, bộ phận giám định BHYT, lãnh đạo, và cơ quan BHXH. Hiểu quy trình giám định và nguyên nhân xuất toán giúp thiết kế sản phẩm giảm rủi ро chi trả cho bệnh viện — một value proposition mạnh.
+Reimbursement map phải phối hợp: phòng tài chính/kế toán bệnh viện, bộ phận giám định BHYT, lãnh đạo, và cơ quan BHXH. Hiểu quy trình giám định và nguyên nhân xuất toán giúp thiết kế sản phẩm giảm rủi ro chi trả cho bệnh viện — một value proposition mạnh.
 
 ## 8. Quy trình từng bước
 
@@ -41,13 +41,13 @@ Reimbursement map phải phối hợp: phòng tài chính/kế toán bệnh vi�
 3. **Kiểm hiệu lực** văn bản pháp quy liên quan (ghi ngày).
 4. **Chọn đường khả thi nhất** cho giai đoạn hiện tại.
 5. **Phác lộ trình** tiến tới chi trả bền vững.
-6. **Đánh dấu rủi ро** xuất toán/pháp lý và cách giảm.
+6. **Đánh dấu rủi ro** xuất toán/pháp lý và cách giảm.
 
 ## 9. Công cụ và template áp dụng
 
 - **Reimbursement map:** nguồn · điều kiện · rào cản · độ bền · trạng thái.
 - **Bảng kiểm văn bản pháp quy** với ngày kiểm hiệu lực.
-- **Rủi ро xuất toán checklist.**
+- **Rủi ro xuất toán checklist.**
 
 ## 10. Ví dụ minh họa
 
@@ -57,17 +57,17 @@ Giải pháp hỗ trợ quản lý bệnh mạn. Đường A: bệnh viện tr�
 
 - **Giả định có mã chi trả** mà không kiểm.
 - **Dựa vào tài trợ** như nguồn bền vững.
-- **Bỏ qua rủi ро xuất toán** cho bệnh viện.
+- **Bỏ qua rủi ro xuất toán** cho bệnh viện.
 - **Dùng văn bản hết hiệu lực.**
 - **Thiết kế sản phẩm không khớp điều kiện chi trả.**
 
-## 12. Rủi ро an toàn, pháp lý và đạo đức
+## 12. Rủi ro an toàn, pháp lý và đạo đức
 
 Mô hình chi trả phải tuân thủ quy định BHYT và tài chính công; cấu trúc sai có thể dẫn tới xuất toán, thu hồi hoặc vi phạm pháp luật. Không thiết kế cơ chế khuyến khích chỉ định thừa để tăng chi trả. Khi không chắc văn bản còn hiệu lực, nêu rõ và đề xuất kiểm tra lại — không khẳng định chắc.
 
 ## 13. Chỉ số đo lường
 
-Tỉ lệ chi trả thành công, tỉ lệ xuất toán liên quan, thời gian thu tiền, và độ đa dạng nguồn chi trả (giảm phụ thuộc một nguồn). Theo dõi thay đổi chính sách là chỉ số rủi ро.
+Tỉ lệ chi trả thành công, tỉ lệ xuất toán liên quan, thời gian thu tiền, và độ đa dạng nguồn chi trả (giảm phụ thuộc một nguồn). Theo dõi thay đổi chính sách là chỉ số rủi ro.
 
 ## 14. Bằng chứng và mức độ tin cậy
 
@@ -79,27 +79,27 @@ Bám Luật BHYT, Nghị định, Thông tư hướng dẫn thanh toán hiện h
 
 ## 16. Liên hệ các chương khác
 
-Hiện thực hóa dòng doanh thu của **09**; dùng lập luận kinh tế từ **12**; định hình **14** (giá) và **18** (mua sắm). Rủi ро pháp lý gắn **19**.
+Hiện thực hóa dòng doanh thu của **09**; dùng lập luận kinh tế từ **12**; định hình **14** (giá) và **18** (mua sắm). Rủi ro pháp lý gắn **19**.
 
 ## 17. Bài tập thực hành — Reimbursement map
 
-Lập reimbursement map cho sản phẩm: liệt kê mọi nguồn chi trả, với mỗi nguồn ghi điều kiện, văn bản pháp quy liên quan (kèm ngày kiểm hiệu lực), rào cản và độ bền; chọn đường khả thi cho giai đoạn hiện tại; phác lộ trình tới chi trả bền vững; nêu rủi ро xuất toán và cách giảm. Đánh dấu điều chưa xác minh.
+Lập reimbursement map cho sản phẩm: liệt kê mọi nguồn chi trả, với mỗi nguồn ghi điều kiện, văn bản pháp quy liên quan (kèm ngày kiểm hiệu lực), rào cản và độ bền; chọn đường khả thi cho giai đoạn hiện tại; phác lộ trình tới chi trả bền vững; nêu rủi ro xuất toán và cách giảm. Đánh dấu điều chưa xác minh.
 
 ## 18. Checklist tự đánh giá
 
 - [ ] Đã liệt kê ≥3 nguồn chi trả.
 - [ ] Kiểm hiệu lực văn bản pháp quy, ghi ngày.
 - [ ] Có đường khả thi cho giai đoạn hiện tại.
-- [ ] Nhận diện rủi ро xuất toán/pháp lý.
+- [ ] Nhận diện rủi ro xuất toán/pháp lý.
 - [ ] Không dựa duy nhất vào tài trợ.
 
 ## 19. Định nghĩa hoàn thành (Definition of Done)
 
-Reimbursement map đạt chuẩn khi liệt kê các nguồn với điều kiện và độ bền, dẫn văn bản pháp quy kèm ngày kiểm, chọn đường khả thi hiện tại, phác lộ trình bền vững, và nêu rủi ро chi trả cụ thể.
+Reimbursement map đạt chuẩn khi liệt kê các nguồn với điều kiện và độ bền, dẫn văn bản pháp quy kèm ngày kiểm, chọn đường khả thi hiện tại, phác lộ trình bền vững, và nêu rủi ro chi trả cụ thể.
 
 ## 20. Câu hỏi phản tư
 
-Ai thực sự trả và qua cơ chế nào có căn cứ pháp lý? Văn bản tôi dựa vào còn hiệu lực không? Sản phẩm có làm tăng rủi ро xuất toán cho bệnh viện không? Tôi có đang phụ thuộc một nguồn chi trả tạm thời không?
+Ai thực sự trả và qua cơ chế nào có căn cứ pháp lý? Văn bản tôi dựa vào còn hiệu lực không? Sản phẩm có làm tăng rủi ro xuất toán cho bệnh viện không? Tôi có đang phụ thuộc một nguồn chi trả tạm thời không?
 
 ## 21. Cạm bẫy quyết định
 

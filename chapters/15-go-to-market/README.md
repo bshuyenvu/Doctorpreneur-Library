@@ -61,7 +61,7 @@ Beachhead: các bệnh viện tuyến huyện trong mạng lưới quen. Champio
 - **Bỏ quên champion** hoặc chuỗi phê duyệt.
 - **Dựa vào case quốc tế** thay vì tham chiếu địa phương.
 
-## 12. Rủi ро an toàn, pháp lý và đạo đức
+## 12. Rủi ro an toàn, pháp lý và đạo đức
 
 Marketing và bán hàng không được tuyên bố hiệu quả/an toàn lâm sàng vượt bằng chứng (chương 08, 25). Pilot chạm bệnh nhân cần cơ sở pháp lý, đồng thuận và giám sát. Quan hệ với người mua công phải minh bạch, tránh xung đột lợi ích và các hành vi vi phạm quy định chống hối lộ.
 

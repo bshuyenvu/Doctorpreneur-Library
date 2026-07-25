@@ -51,7 +51,7 @@ BMC phải nhất quán với bản đồ bên liên quan: kênh tiếp cận đ
 
 ## 10. Ví dụ minh họa
 
-Một công cụ hỗ trợ quản lý bệnh mạn. Mô hình A: thuê bao bệnh viện trả theo số bệnh nhân quản lý. Mô hình B: bán license trọn gói. Mô hình C: theo kết quả (trả khi đạt chỉ tiêu tuân thủ). BMC cho thấy C hấp dẫn lãnh đạo nhưng khó đo và rủi ро dòng tiền cho startup; A cân bằng hơn cho tuyến cơ sở. Con số minh họa phải kiểm, không bịa.
+Một công cụ hỗ trợ quản lý bệnh mạn. Mô hình A: thuê bao bệnh viện trả theo số bệnh nhân quản lý. Mô hình B: bán license trọn gói. Mô hình C: theo kết quả (trả khi đạt chỉ tiêu tuân thủ). BMC cho thấy C hấp dẫn lãnh đạo nhưng khó đo và rủi ro dòng tiền cho startup; A cân bằng hơn cho tuyến cơ sở. Con số minh họa phải kiểm, không bịa.
 
 ## 11. Sai lầm thường gặp
 
@@ -61,7 +61,7 @@ Một công cụ hỗ trợ quản lý bệnh mạn. Mô hình A: thuê bao bệ
 - **Unit economics âm** bị che bởi tăng trưởng.
 - **Kênh không khớp** chu kỳ bán hàng bệnh viện.
 
-## 12. Rủi ро an toàn, pháp lý và đạo đức
+## 12. Rủi ro an toàn, pháp lý và đạo đức
 
 Mô hình doanh thu không được tạo động lực đi ngược lợi ích bệnh nhân (ví dụ khuyến khích chỉ định thừa). Mô hình theo kết quả phải chọn chỉ số không khuyến khích lựa chọn bệnh nhân dễ (cherry-picking). Tuân quy định về mua sắm, chống xung đột lợi ích và minh bạch.
 
@@ -83,7 +83,7 @@ Dựa trên **08**; mở đường cho **10** (thị trường), **13–14** (ch
 
 ## 17. Bài tập thực hành — Business Model Canvas
 
-Điền BMC cho sản phẩm của bạn, so sánh ít nhất ba mô hình doanh thu theo tính khả thi trong hệ sinh thái chi trả Việt Nam, tính unit economics sơ bộ với giả định có nguồn, và nêu giả định rủi ро nhất cùng cách kiểm. Đánh dấu số nào chưa xác minh.
+Điền BMC cho sản phẩm của bạn, so sánh ít nhất ba mô hình doanh thu theo tính khả thi trong hệ sinh thái chi trả Việt Nam, tính unit economics sơ bộ với giả định có nguồn, và nêu giả định rủi ro nhất cùng cách kiểm. Đánh dấu số nào chưa xác minh.
 
 ## 18. Checklist tự đánh giá
 
@@ -95,7 +95,7 @@ Dựa trên **08**; mở đường cho **10** (thị trường), **13–14** (ch
 
 ## 19. Định nghĩa hoàn thành (Definition of Done)
 
-BMC đạt chuẩn khi chín khối nhất quán, dòng doanh thu chỉ rõ người trả có thẩm quyền và cơ chế chi trả khả thi, cơ cấu chi phí gồm chi phí tuân thủ, và nêu giả định rủi ро nhất cần kiểm.
+BMC đạt chuẩn khi chín khối nhất quán, dòng doanh thu chỉ rõ người trả có thẩm quyền và cơ chế chi trả khả thi, cơ cấu chi phí gồm chi phí tuân thủ, và nêu giả định rủi ro nhất cần kiểm.
 
 ## 20. Câu hỏi phản tư
 

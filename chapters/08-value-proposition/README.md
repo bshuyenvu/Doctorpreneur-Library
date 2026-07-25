@@ -28,7 +28,7 @@ Bắt đầu từ customer profile *trước* value map: hiểu jobs–pains–g
 
 ## 6. Bối cảnh y tế Việt Nam và tuyến cơ sở
 
-Ở bệnh viện công, người trả tiền thường là ngân sách bệnh viện/BHYT, không phải bác sĩ dùng. Value proposition phải trả lời được: giải pháp giúp tiết kiệm chi phí, tăng nguồn thu hợp pháp, giảm rủi ро xuất toán BHYT, hay cải thiện chỉ tiêu chất lượng? Giá trị nói bằng ngôn ngữ lãnh đạo và tài chính mới mở được ngân sách.
+Ở bệnh viện công, người trả tiền thường là ngân sách bệnh viện/BHYT, không phải bác sĩ dùng. Value proposition phải trả lời được: giải pháp giúp tiết kiệm chi phí, tăng nguồn thu hợp pháp, giảm rủi ro xuất toán BHYT, hay cải thiện chỉ tiêu chất lượng? Giá trị nói bằng ngôn ngữ lãnh đạo và tài chính mới mở được ngân sách.
 
 ## 7. Các bên liên quan
 
@@ -63,7 +63,7 @@ Công cụ nhắc tái khám. Với bác sĩ: giảm số bệnh nhân mất d�
 
 ## 12. Rủi ro an toàn, pháp lý và đạo đức
 
-Không tuyên bố giá trị lâm sàng (giảm biến chứng, cải thiện kết cục) khi chưa có bằng chứng phù hợp — đây là rủi ро pháp lý và đạo đức, và có thể cấu thành quảng cáo sai. Phân biệt rõ giá trị *kỳ vọng* (giả thuyết) với giá trị *đã chứng minh*.
+Không tuyên bố giá trị lâm sàng (giảm biến chứng, cải thiện kết cục) khi chưa có bằng chứng phù hợp — đây là rủi ro pháp lý và đạo đức, và có thể cấu thành quảng cáo sai. Phân biệt rõ giá trị *kỳ vọng* (giả thuyết) với giá trị *đã chứng minh*.
 
 ## 13. Chỉ số đo lường
 

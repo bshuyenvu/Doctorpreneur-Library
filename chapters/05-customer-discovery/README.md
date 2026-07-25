@@ -36,7 +36,7 @@ Phân khúc người phỏng vấn theo vai: người dùng, người quyết đ
 
 ## 8. Quy trình từng bước
 
-1. **Xác định giả định rủi ро nhất** cần kiểm (từ problem brief).
+1. **Xác định giả định rủi ro nhất** cần kiểm (từ problem brief).
 2. **Chọn phân khúc và tuyển người** phù hợp vai.
 3. **Soạn interview guide** gồm câu hỏi hành vi mở, không dẫn dắt.
 4. **Phỏng vấn:** nghe nhiều, đào sâu bằng "kể thêm về lần đó".

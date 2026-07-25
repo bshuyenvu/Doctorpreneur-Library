@@ -61,7 +61,7 @@ Sản phẩm bán cho bệnh viện tuyến huyện/khu vực. Bottom-up: (số 
 - **Giả định giá/tần suất bịa.**
 - **Bỏ qua động lực co hẹp** (chính sách, cạnh tranh).
 
-## 12. Rủi ро an toàn, pháp lý và đạo đức
+## 12. Rủi ro an toàn, pháp lý và đạo đức
 
 Ước lượng thị trường không được dựa trên giả định mở rộng chỉ định ngoài phạm vi an toàn/được phép. Trong pitch, phân biệt rõ thị trường *hiện được phép* với thị trường *tiềm năng nếu được cấp phép thêm* — trộn hai loại là gây hiểu nhầm.
 
