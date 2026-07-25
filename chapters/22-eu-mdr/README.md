@@ -51,7 +51,7 @@ Notified Body, tư vấn regulatory châu Âu, đại diện được ủy quy�
 
 ## 10. Ví dụ minh họa
 
-Một SaMD hỗ trợ chẩ đoán. Tùy intended use, có thể rơi vào nhóm rủi ro trung–cao theo quy tắc phân loại phần mềm của EU MDR, kéo theo Notified Body và đánh giá lâm sàng mạnh. Memo lập luận nhóm phân loại và phác bằng chứng + hậu kiểm. Phân loại cụ thể phải xác minh với chuyên gia và Notified Body.
+Một SaMD hỗ trợ chẩn đoán. Tùy intended use, có thể rơi vào nhóm rủi ro trung–cao theo quy tắc phân loại phần mềm của EU MDR, kéo theo Notified Body và đánh giá lâm sàng mạnh. Memo lập luận nhóm phân loại và phác bằng chứng + hậu kiểm. Phân loại cụ thể phải xác minh với chuyên gia và Notified Body.
 
 ## 11. Sai lầm thường gặp
 
