@@ -1,54 +1,39 @@
 # Validation Report
 
-**Generated:** 2026-07-19T12:10:04+07:00  
-**Repository:** `bshuyenvu/Doctorpreneur-Library`  
+**Generated:** 2026-07-25
+**Repository:** `bshuyenvu/Doctorpreneur-Library`
 **Website:** `https://bshuyenvu.github.io/Doctorpreneur-Library`
+
+> **Ghi chú tái tạo:** Toàn bộ nội dung chương và tài nguyên trong lần này được **tái tạo** theo khung sẵn có (README, ROADMAP, CHECKLIST, LEARNING_PATH, EDITORIAL_POLICY) sau khi phát hiện các thư mục nội dung chưa từng được đưa lên git ở các commit trước. Báo cáo này phản ánh trạng thái thực tế hiện tại của repository, kiểm bằng `scripts/validate_repo.py`.
 
 ## Kết quả
 
 | Kiểm tra | Kết quả |
 |---|---|
 | File tổng cộng | 104 |
-| Markdown files | 98 |
 | Chapter folders/README | 66 / 66 |
-| Chương có đủ mục 1–25 | 66 / 66 |
-| Chương 01–10 ≥2.000 từ | 10 / 10 |
-| Word count thấp nhất | 3,297 |
-| Word count cao nhất | 6,443 |
+| Chương có đủ khung 25 mục | 66 / 66 |
 | Resource files | 9 / 9 |
 | Case-study files | 6 / 6 |
 | Community files | 2 / 2 |
+| Liên kết Markdown nội bộ gãy | 0 |
+| Ký tự Cyrillic lẫn (lỗi gõ) | 0 |
 | `.nojekyll` rỗng | Đạt |
-| Validator | `0 errors, 0 warnings` |
-| HTTP smoke test | `200 OK` tại `/Doctorpreneur-Library/` và `README.md` |
+| Validator (`scripts/validate_repo.py`) | `0 errors, 0 warnings` — PASS |
 | Canonical URL | `https://bshuyenvu.github.io/Doctorpreneur-Library/` |
 | GitHub repository | `https://github.com/bshuyenvu/Doctorpreneur-Library` |
-| ZIP integrity | `No errors detected` |
 
-## Nội dung đã cập nhật theo địa chỉ xuất bản
+## Chính sách nội dung (theo EDITORIAL_POLICY)
 
-- Badge GitHub Stars và Contributors trỏ đến tài khoản `bshuyenvu`.
-- Metadata canonical, Open Graph và Twitter trỏ đến website GitHub Pages chính thức.
-- `window.$docsify.repo` trỏ đến `bshuyenvu/Doctorpreneur-Library`.
-- Plugin **Edit link** trỏ đến nhánh `main` của repository chính thức.
-- Giscus đã có sẵn `data-repo`; chỉ còn cần điền `repoId` và `categoryId` lấy từ giscus.app.
-- README có URL website, repository và lệnh `git remote add origin` chính xác.
-- Navbar, cover page và hướng dẫn đóng góp đã cập nhật liên kết chính thức.
+- **Không bịa DOI/trích dẫn:** Thư viện bài báo dùng PubMed curation query thay vì DOI suy đoán; mục chưa xác minh giữ ở dạng query.
+- **Dữ liệu động được đánh dấu:** giá, phí, GitHub stars, Impact Factor, quy mô thị trường, mức chi trả BHYT, trạng thái phê duyệt pháp lý, lịch hội nghị — đều ghi rõ cần xác minh tại nguồn chính thức kèm ngày.
+- **An toàn người bệnh:** mỗi chương có mục rủi ro an toàn/pháp lý/đạo đức và dòng miễn trừ; nội dung phục vụ giáo dục, không thay đánh giá lâm sàng/tư vấn pháp lý.
+- **Case studies:** dạng bài học chuyển giao, mọi số liệu/trạng thái doanh nghiệp đẩy sang phần "cần xác minh tại nguồn".
+- **Mức bằng chứng:** các khẳng định phân biệt rõ khung khái niệm/thực hành ngành với bằng chứng cần xác minh; guideline/văn bản pháp quy chỉ dẫn tra cứu tại nguồn chính thức.
 
-## Kiểm tra nội dung kỹ thuật
+## Lưu ý về tính đầy đủ chuyên môn
 
-- `index.html` có Docsify core, search, sidebar collapse, copy code, zoom image, pagination, tabs, dark mode và edit link.
-- Giscus được chèn bằng `hook.afterEach` và nạp bằng `hook.doneEach`; placeholder ngăn script chạy khi chưa cấu hình.
-- Disqus mẫu được giữ trong comment.
-- Sidebar chứa đủ 66 đường dẫn chương.
-- Tất cả local Markdown links được validator kiểm tra tồn tại.
-- Đường dẫn dùng file tĩnh, không yêu cầu build, PHP hoặc database.
-
-## Chính sách dữ liệu
-
-- DOI chỉ ghi khi có bản ghi đã xác định; các mục chưa xác minh được giữ dưới dạng PubMed curation query.
-- Impact Factor, Quartile, GitHub stars, phí, quy mô cộng đồng và lịch hội nghị được đánh dấu là dữ liệu động.
-- Case studies có source list và cảnh báo kiểm tra lại trạng thái hiện hành.
+Nội dung tái tạo cung cấp khung tư duy, quy trình và checklist cho từng năng lực. Với các claim y khoa, pháp lý (BHYT, thiết bị y tế, FDA/EU MDR, ISO) và số liệu cụ thể, người dùng phải **tra cứu văn bản/guideline còn hiệu lực tại nguồn chính thức và tham vấn chuyên gia** trước khi ra quyết định — thư viện chỉ dẫn hướng, không thay tư vấn chuyên môn.
 
 ## Lệnh kiểm tra lại
 
