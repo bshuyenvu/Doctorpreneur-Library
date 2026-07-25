@@ -2,14 +2,14 @@ Doctorpreneur-Library/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   └── content-update.md
-│   └── pull_request_template.md
+│   ├── pull_request_template.md
 ├── case-studies/
 │   ├── babylon-health.md
 │   ├── doximity.md
 │   ├── idoven.md
 │   ├── osler.md
 │   ├── viz-ai.md
-│   └── zocdoc.md
+│   ├── zocdoc.md
 ├── chapters/
 │   ├── 01-doctorpreneur-mindset/
 │   │   └── README.md
@@ -141,11 +141,11 @@ Doctorpreneur-Library/
 │   │   └── README.md
 │   ├── 65-impact-ethics/
 │   │   └── README.md
-│   └── 66-international-expansion/
-│       └── README.md
+│   ├── 66-international-expansion/
+│   │   └── README.md
 ├── community/
 │   ├── conferences.md
-│   └── international-communities.md
+│   ├── international-communities.md
 ├── resources/
 │   ├── ai-tool-library.md
 │   ├── book-library.md
@@ -155,18 +155,13 @@ Doctorpreneur-Library/
 │   ├── prompt-library.md
 │   ├── sop-library.md
 │   ├── template-library.md
-│   └── video-library.md
+│   ├── video-library.md
 ├── scripts/
-│   └── validate_repo.py
+│   ├── validate_repo.py
 ├── .nojekyll
-├── _404.md
-├── _coverpage.md
-├── _navbar.md
-├── _sidebar.md
 ├── CHECKLIST.md
 ├── CONTRIBUTING.md
 ├── EDITORIAL_POLICY.md
-├── index.html
 ├── LEARNING_PATH.md
 ├── LICENSE
 ├── MANIFEST.txt
@@ -175,4 +170,9 @@ Doctorpreneur-Library/
 ├── ROADMAP.md
 ├── SUMMARY.md
 ├── TREE.txt
-└── VALIDATION_REPORT.md
+├── VALIDATION_REPORT.md
+├── _404.md
+├── _coverpage.md
+├── _navbar.md
+├── _sidebar.md
+├── index.html
