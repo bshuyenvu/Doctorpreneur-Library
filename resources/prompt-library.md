@@ -24,7 +24,7 @@
 
 ## AI y tế (chương 41–48)
 
-> "Đánh giá use case AI sau theo bốn trục: phù hợp AI (vs phương án đơn giản), dữ liệu/ground truth, rủi ро lâm sàng và oversight cần, giá trị đo được. Kết luận go/no-go có căn cứ. Nhấn giới hạn dữ liệu và nhu cầu validation. Use case: [mô tả]."
+> "Đánh giá use case AI sau theo bốn trục: phù hợp AI (vs phương án đơn giản), dữ liệu/ground truth, rủi ro lâm sàng và oversight cần, giá trị đo được. Kết luận go/no-go có căn cứ. Nhấn giới hạn dữ liệu và nhu cầu validation. Use case: [mô tả]."
 
 ## Hành chính và tài liệu
 

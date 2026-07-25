@@ -18,8 +18,8 @@ Mỗi SOP nên có: mã số & phiên bản · ngày hiệu lực · phạm vi �
 
 ## SOP-02 — Quản lý thay đổi (change control — chương 23, 50, 55)
 
-1. Đề xuất thay đổi kèm đánh giá tác động (gồm an toàn/rủi ро).
-2. Phê duyệt theo cấp phù hợp mức rủi ро.
+1. Đề xuất thay đổi kèm đánh giá tác động (gồm an toàn/rủi ro).
+2. Phê duyệt theo cấp phù hợp mức rủi ro.
 3. Kiểm thử và (nếu chạm chức năng lâm sàng) validation lại (chương 47).
 4. Triển khai có thể rollback; ghi hồ sơ.
 **Điểm kiểm soát:** thay đổi chạm quyết định lâm sàng bắt buộc validation lại.

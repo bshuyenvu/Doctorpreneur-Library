@@ -28,7 +28,7 @@
 
 - **Deep Medicine** — Eric Topol. AI và tương lai y khoa (chương 41).
 - **The Digital Doctor** — Robert Wachter. Số hóa y tế và bài học triển khai (chương 31, 35).
-- **Weapons of Math Destruction** — Cathy O'Neil. Rủi ро thiên lệch thuật toán (chương 48).
+- **Weapons of Math Destruction** — Cathy O'Neil. Rủi ro thiên lệch thuật toán (chương 48).
 
 ## Thống kê và phương pháp nghiên cứu
 

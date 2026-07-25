@@ -31,7 +31,7 @@
 
 - Software as a Medical Device (SaMD): `software as a medical device[Title/Abstract]`
 - Đường pháp lý FDA cho thiết bị số: `FDA[Title/Abstract] AND digital health AND regulation`
-- Quản lý rủi ро thiết bị y tế: `risk management[Title/Abstract] AND medical device`
+- Quản lý rủi ro thiết bị y tế: `risk management[Title/Abstract] AND medical device`
 - Với văn bản pháp quy: tra tại nguồn chính thức của cơ quan quản lý (FDA, EU/EMA, Bộ Y tế Việt Nam), không qua PubMed.
 
 ## Y tế số và liên thông (chương 31–40)
